@@ -46,7 +46,7 @@
 
 <br>
 <div align="center">
-	<img src="https://jd-visitor-counter.jeffersondantas.repl.co/custom/github:josejefferson/count.svg" alt="Visitor counter" title="Visitor counter">
+	<img src="https://jd-visitor-counter.adaptable.app/custom/github:josejefferson/count.svg" alt="Visitor counter" title="Visitor counter">
 </div>
 
 <div align="center">
