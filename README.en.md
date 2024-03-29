@@ -5,11 +5,7 @@ _Full Stack Web Developer_
 [![Português](img/português.svg)](https://github.com/josejefferson/josejefferson/blob/main/README.md)
 [![Español](img/español.svg)](https://github.com/josejefferson/josejefferson/blob/main/README.es.md)
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,docker&theme=dark" />
-	<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,docker&theme=light" />
-	<img alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Docker" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,docker&theme=light" />
-</picture>
+![TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Docker](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,docker)
 
 ---
 
