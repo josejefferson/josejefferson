@@ -2,7 +2,7 @@
 
 _Full Stack Web Developer_
 
-[![English](img/english.svg)](https://github.com/josejefferson/josejefferson/blob/main/README.en.md)
+[![Português](img/português.svg)](https://github.com/josejefferson/josejefferson/blob/main/README.md)
 [![Español](img/español.svg)](https://github.com/josejefferson/josejefferson/blob/main/README.es.md)
 
 <div>
@@ -15,10 +15,10 @@ _Full Stack Web Developer_
 
 ---
 
-- 🏫 [Sistemas para Internet](https://estudante.ifpb.edu.br/cursos/344/) @ IFPB Campus Picuí
-- 🚀 Entusiasta de TypeScript
-- 🌱 Aprendizado Rápido e Boas Práticas de Programação
-- 💡 Apreciador de Desafios e Resolução de Problemas
+- 🏫 [Internet Systems](https://estudante.ifpb.edu.br/cursos/344/) @ IFPB Campus Picuí
+- 🚀 TypeScript Enthusiast
+- 🌱 Fast Learner and Programming Best Practices Advocate
+- 💡 Enthusiastic about Challenges and Problem Solving
 
 <a href="https://www.linkedin.com/in/jose-jefferson/">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,12 +32,12 @@ _Full Stack Web Developer_
 
 ---
 
-## Linguagens e Bibliotecas que Uso
+## Languages and Libraries I Use
 
 <table>
 	<tbody>
 		<tr>
-			<th>Linguagens</th>
+			<th>Languages</th>
 			<td>
 				<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 				<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -60,7 +60,7 @@ _Full Stack Web Developer_
 			</td>
 		</tr>
 		<tr>
-			<th>Bibliotecas Front-end</th>
+			<th>Front-end Libraries</th>
 			<td>
 				<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra" />
 				<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
@@ -72,7 +72,7 @@ _Full Stack Web Developer_
 			</td>
 		</tr>
 		<tr>
-			<th>Bibliotecas Back-end</th>
+			<th>Back-end Libraries</th>
 			<td>
 				<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
 				<img src="https://img.shields.io/badge/TypeORM-fe110a?style=for-the-badge&logo=TypeORM&logoColor=white" alt="TypeORM" />
@@ -84,7 +84,7 @@ _Full Stack Web Developer_
 			</td>
 		</tr>
 		<tr>
-			<th>Bancos de Dados</th>
+			<th>Databases</th>
 			<td>
 				<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
 				<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -92,7 +92,7 @@ _Full Stack Web Developer_
 			</td>
 		</tr>
 		<tr>
-			<th>Serviços</th>
+			<th>Services</th>
 			<td>
 				<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 				<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
@@ -103,7 +103,7 @@ _Full Stack Web Developer_
 			</td>
 		</tr>
 		<tr>
-			<th>Ferramentas</th>
+			<th>Tools</th>
 			<td>
 				<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 				<img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
@@ -116,7 +116,7 @@ _Full Stack Web Developer_
 	</tbody>
 </table>
 
-## Estatísticas do GitHub
+## GitHub Statistics
 
 <div>
 	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=josejefferson&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Stats">
