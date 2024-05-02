@@ -8,6 +8,8 @@ _Full Stack Web Developer_
 
 ![TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Docker](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,docker)
 
+![Access my Portfolio](https://img.shields.io/badge/Access%20my%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 ---
 
 - 🏫 [Internet Systems](https://estudante.ifpb.edu.br/cursos/344/) @ IFPB Campus Picuí
