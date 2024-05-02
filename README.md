@@ -2,8 +2,9 @@
 
 _Full Stack Web Developer_
 
-[![English](img/english.svg)](https://github.com/josejefferson/josejefferson/blob/main/README.en.md)
-[![Español](img/español.svg)](https://github.com/josejefferson/josejefferson/blob/main/README.es.md)
+**Português** ·
+[English](https://github.com/josejefferson/josejefferson/blob/main/README.en.md) ·
+[Español](https://github.com/josejefferson/josejefferson/blob/main/README.es.md)
 
 ![TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Docker](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,docker)
 
