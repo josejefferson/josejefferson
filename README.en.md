@@ -23,8 +23,8 @@ _Full Stack Web Developer_
 <a href="https://replit.com/@JeffersonDantas">
 	<img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" />
 </a>
-<a href="https://jd-visitor-counter.adaptable.app/">
-	<img height="28" src="https://jd-visitor-counter.adaptable.app/custom/github:josejefferson/count.svg" alt="Visitor counter" title="Visitor counter">
+<a href="https://jd-visitor-counter.onrender.com/">
+	<img height="28" src="https://jd-visitor-counter.onrender.com/custom/github:josejefferson/count.svg" alt="Visitor counter" title="Visitor counter">
 </a>
 
 ---
